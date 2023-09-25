@@ -41,3 +41,9 @@ The data consists of files obtained from different sources:
 In each file, the column `customerID` contains a unique code assigned to each client.
 
 The contract information is valid as of February 1, 2020.
+
+Target feature: the `'EndDate'` column equals `'No'`.
+
+Primary metric: AUC-ROC.
+
+Additional metric: Accuracy.
